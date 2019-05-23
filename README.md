@@ -10,7 +10,6 @@ An example app which consumes an API made in Laravel which is authenticated with
     composer update</pre>
 </li>
 <li>Rename .env.example to .env and provide your database details there.</li>
-<li>It needs a database table to perform CRUD operations on it. Run <code>php artisan migrate</code> to import the table.</li>
 <li>Run <pre>php artisan key:generate</pre> </li>
 
 </ul>
